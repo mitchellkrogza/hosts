@@ -1,11 +1,11 @@
-#Unified hosts file with gambling extensions
+#Unified hosts file with fakenews, gambling extensions
 
 This repository consolidates several reputable `hosts` files, and merges them
 into a unified hosts file with duplicates removed.  This repo provides several
 hosts files tailored to you need to block.
 
 * Last updated: **January 05 2017**.
-* Here's the [raw hosts file with gambling extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts) containing 31,543 entries.
+* Here's the [raw hosts file with fakenews, gambling extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts) containing 32,091 entries.
 
 ### List of all hosts file variants
 
@@ -58,6 +58,7 @@ UncheckyAds | Windows installers ads sources sites based on https://unchecky.com
 WindowsSpyBlocker::SPY:WIN10 | Set of rules to block Windows spy/telemetry via hosts.SPY rules for WIN10 |[link](https://github.com/crazy-max/WindowsSpyBlocker) | [raw](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win10/spy.txt) | frequently 
 WindowsSpyBlocker::SPY:WIN81 | Set of rules to block Windows spy/telemetry via hosts.SPY rules for WIN81 |[link](https://github.com/crazy-max/WindowsSpyBlocker) | [raw](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win81/spy.txt) | frequently 
 yoyo.org | Blocking with ad server and tracking server hostnames. |[link](https://pgl.yoyo.org/adservers/) | [raw](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0) | frequently 
+Fake News | An in-progress collection of fake news outlets. |[link](https://github.com/marktron/fakenews) | [raw](https://raw.githubusercontent.com/marktron/fakenews/master/fakenews) | occasional 
 Sinfonietta's gambling blocking hosts file | A collection of category-specific host files. |[link](https://github.com/Sinfonietta/hostfiles) | [raw](https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts) | occasional 
 
 

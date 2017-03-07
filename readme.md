@@ -1,11 +1,11 @@
-#Unified hosts file with fakenews extensions
+#Unified hosts file with base extensions
 
 This repository consolidates several reputable `hosts` files, and merges them
 into a unified hosts file with duplicates removed.  This repo provides several
 hosts files tailored to you need to block.
 
 * Last updated: **March 07 2017**.
-* Here's the [raw hosts file with fakenews extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts) containing 35,908 entries.
+* Here's the [raw hosts file with base extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) containing 35,336 entries.
 
 ### List of all hosts file variants
 
@@ -58,7 +58,6 @@ Steven Black's ad-hoc list | Additional sketch domains as I come across them. |[
 tyzbit | Microsoft tracking domains.  A fork of this repo providing additional data. |[link](https://github.com/tyzbit/hosts/blob/master/data/tyzbit/hosts) | [raw](https://raw.githubusercontent.com/tyzbit/hosts/master/data/tyzbit/hosts) | rarely 
 UncheckyAds | Windows installers ads sources sites based on https://unchecky.com/ content. |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts) | occasionally 
 yoyo.org | Blocking with ad server and tracking server hostnames. |[link](https://pgl.yoyo.org/adservers/) | [raw](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0) | frequently 
-Fake News | An in-progress collection of fake news outlets. |[link](https://github.com/marktron/fakenews) | [raw](https://raw.githubusercontent.com/marktron/fakenews/master/fakenews) | occasional 
 
 
 
